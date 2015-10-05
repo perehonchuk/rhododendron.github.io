@@ -7,14 +7,14 @@
     <link>https://rhododendron.github.io/</link>
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     <description><![CDATA[My personal blog]]></description>
-    <pubDate>Sun, 04 Oct 2015 17:43:39 GMT</pubDate>
+    <pubDate>Mon, 05 Oct 2015 13:26:50 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title><![CDATA[Hello World]]></title>
-      <link>https://rhododendron.github.io/2015/10/04/hello-world/</link>
-      <guid>https://rhododendron.github.io/2015/10/04/hello-world/</guid>
-      <pubDate>Sun, 04 Oct 2015 17:43:39 GMT</pubDate>
+      <link>https://rhododendron.github.io/2015/10/05/hello-world/</link>
+      <guid>https://rhododendron.github.io/2015/10/05/hello-world/</guid>
+      <pubDate>Mon, 05 Oct 2015 13:26:50 GMT</pubDate>
       <description>
       <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
       </description>
@@ -28,7 +28,7 @@
 <h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content:encoded>
-      <comments>https://rhododendron.github.io/2015/10/04/hello-world/#disqus_thread</comments>
+      <comments>https://rhododendron.github.io/2015/10/05/hello-world/#disqus_thread</comments>
     </item>
     
   </channel>
