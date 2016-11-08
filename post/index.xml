@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on Roman Perehonchuk</title>
-    <link>https://example.com/post/index.xml</link>
+    <link>https://rhododendron.github.io/post/index.xml</link>
     <description>Recent content in Post-rsses on Roman Perehonchuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 08 Nov 2016 20:10:00 +0200</lastBuildDate>
-    <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rhododendron.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome to bear</title>
-      <link>https://example.com/post/welcome-to-bear/</link>
+      <link>https://rhododendron.github.io/post/welcome-to-bear/</link>
       <pubDate>Tue, 08 Nov 2016 20:10:00 +0200</pubDate>
       
-      <guid>https://example.com/post/welcome-to-bear/</guid>
+      <guid>https://rhododendron.github.io/post/welcome-to-bear/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;https://example.com/welcome/welcome.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://rhododendron.github.io/welcome/welcome.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Bear is a beautiful, flexible writing app for notes and prose. It’s easy to get started and master Bear, so let’s show you around.&lt;/p&gt;
 
