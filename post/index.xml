@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on Roman Perehonchuk</title>
+    <link>https://example.com/post/index.xml</link>
+    <description>Recent content in Post-rsses on Roman Perehonchuk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Nov 2016 20:10:00 +0200</lastBuildDate>
+    <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to bear</title>
+      <link>https://example.com/post/welcome-to-bear/</link>
+      <pubDate>Tue, 08 Nov 2016 20:10:00 +0200</pubDate>
+      
+      <guid>https://example.com/post/welcome-to-bear/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://example.com/welcome/welcome.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bear is a beautiful, flexible writing app for notes and prose. It’s easy to get started and master Bear, so let’s show you around.&lt;/p&gt;
+
+&lt;h2 id=&#34;bear-has-three-parts&#34;&gt;Bear has three parts&lt;/h2&gt;
+
+&lt;p&gt;Bear has three main columns where you create, edit, and organise your notes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sidebar&lt;/strong&gt; (on the left): when you add tags anywhere in your notes, Bear will collect them in this sidebar. Think of them like folders you can create and use on the fly, while you write.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notes List&lt;/strong&gt; (in the middle): all your notes live here, ordered by modification date. You can &lt;strong&gt;pin a note&lt;/strong&gt; to the top of this list for quick access.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Editor&lt;/strong&gt; (on the right): this is where your magic happens; you’re looking at it. 😄&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bear-has-style&#34;&gt;Bear has style&lt;/h2&gt;
+
+&lt;p&gt;Bear supports many text styles like: &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, &lt;em&gt;underline&lt;/em&gt;, -strike-, headings 1-6, and others. You can find shortcuts for them in the &lt;em&gt;style panel&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;on a Mac, click on the pen symbol in the bottom right of the Editor&lt;/li&gt;
+&lt;li&gt;On an iPhone or iPad, it’s in Bear’s shortcut bar above the keyboard&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bear also has a range of themes to give you a comfortable, beautiful writing canvas. They are part of the features you can unlock with an in-app &lt;a href=&#34;bear://x-callback-url/open-bear-pro&#34;&gt;Bear Pro&lt;/a&gt; subscription.&lt;/p&gt;
+
+&lt;h2 id=&#34;link-notes-together&#34;&gt;Link notes together&lt;/h2&gt;
+
+&lt;p&gt;One of Bear’s really fun and useful features is Note Linking. It’s great for quickly moving between multiple notes in a project, creating a choose-your-own adventure, or using more than one note to explain an app’s features! Speaking of, continue your Bear introduction in Organise and publish. 😉&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
